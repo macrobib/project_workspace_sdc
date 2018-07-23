@@ -3,6 +3,8 @@
 
 #include "Eigen/Dense"
 
+#define DEBUG_ 1
+
 class MeasurementPackage {
 public:
   long long timestamp_;
